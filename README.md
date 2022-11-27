@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Launch
+
+Visit [this netlify link](https://random-dare-gen-nnguyenk.netlify.app/) to launch the site. 
+
 ## Available Scripts
 
 In the project directory, you can run:
